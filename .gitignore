@@ -207,7 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 
-###
+### não subir arquivos de dados ###
+
 *.csv
 *.zip
 *.json
